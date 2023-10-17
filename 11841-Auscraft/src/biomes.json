@@ -1,0 +1,578 @@
+[
+    {
+        "name": "Badlands",
+        "id": 26,
+        "temperatureunit": 2,
+        "temperature": 34.4,
+        "humidityunit": 0,
+        "humidity": 0,
+        "img": "https://staticg.sportskeeda.com/editor/2022/09/96f29-16643715460364.png"
+    },
+    {
+        "name": "Basalt Deltas",
+        "id": 58,
+        "temperatureunit": 2,
+        "temperature": 34.4,
+        "humidityunit": 0,
+        "humidity": 0,
+        "img": "https://i.redd.it/9wy7v8io2mr41.png"
+    },
+    {
+        "name": "Crimson Forest",
+        "id": 56,
+        "temperatureunit": 2,
+        "temperature": 34.4,
+        "humidityunit": 0,
+        "humidity": 0,
+        "img": "https://pbs.twimg.com/media/EvjcBGfWgAEUOeg.jpg:large"
+    },
+    {
+        "name": "Desert",
+        "id": 5,
+        "temperatureunit": 2,
+        "temperature": 34.4,
+        "humidityunit": 0,
+        "humidity": 0,
+        "img": "https://staticg.sportskeeda.com/editor/2021/12/17230-16400171088756-1920.jpg"
+    },
+    {
+        "name": "Eroded Badlands",
+        "id": 27,
+        "temperatureunit": 2,
+        "temperature": 34.4,
+        "humidityunit": 0,
+        "humidity": 0,
+        "img": "https://i.redd.it/ri4x3jvaryb61.png"
+    },
+    {
+        "name": "Nether Wastes",
+        "id": 54,
+        "temperatureunit": 2,
+        "temperature": 34.4,
+        "humidityunit": 0,
+        "humidity": 0,
+        "img": "https://tagn.files.wordpress.com/2020/07/netherview.jpg"
+    },
+    {
+        "name": "Savanna",
+        "id": 17,
+        "temperatureunit": 2,
+        "temperature": 34.4,
+        "humidityunit": 0,
+        "humidity": 0,
+        "img": "https://i.pinimg.com/originals/2a/f9/02/2af902c492aba2923de39a9550fbb876.png"
+    },
+    {
+        "name": "Savanna Plateau",
+        "id": 18,
+        "temperatureunit": 2,
+        "temperature": 34.4,
+        "humidityunit": 0,
+        "humidity": 0,
+        "img": "https://staticg.sportskeeda.com/editor/2022/10/8a662-16662762275093.png"
+    },
+    {
+        "name": "Soul Sand Valley",
+        "id": 57,
+        "temperatureunit": 2,
+        "temperature": 34.4,
+        "humidityunit": 0,
+        "humidity": 0,
+        "img": "https://miro.medium.com/v2/resize:fit:1358/1*jGGdYPiE2ZD04rQ__m2lJg.png"
+    },
+    {
+        "name": "Warped Forest",
+        "id": 55,
+        "temperatureunit": 2,
+        "temperature": 34.4,
+        "humidityunit": 0,
+        "humidity": 0,
+        "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4faaae78-5aa4-4305-b9c9-21d6dca10808/deyprjy-5dca81fa-c398-40f5-88e3-13e0475751d6.png/v1/fill/w_1192,h_670,q_70,strp/minecraft__warped_forest__by_fenrate_deyprjy-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNGZhYWFlNzgtNWFhNC00MzA1LWI5YzktMjFkNmRjYTEwODA4XC9kZXlwcmp5LTVkY2E4MWZhLWMzOTgtNDBmNS04OGUzLTEzZTA0NzU3NTFkNi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.wsWVlIvu8w8tU8aF6j2o9cFgyrESJAyi5ZJ23ANy1bw"
+    },
+    {
+        "name": "Windswept Savanna",
+        "id": 22,
+        "temperatureunit": 2,
+        "temperature": 34.4,
+        "humidityunit": 0,
+        "humidity": 0,
+        "img": "https://feedback.minecraft.net/hc/user_images/Ce0O8XqWqbMflbNeNc1lbA.jpeg"
+    },
+    {
+        "name": "Wooded Badlands",
+        "id": 28,
+        "temperatureunit": 2,
+        "temperature": 34.4,
+        "humidityunit": 0,
+        "humidity": 0,
+        "img": "https://i.redd.it/k5aucej2qe481.png"
+    },
+    {
+        "name": "Snowy Beach",
+        "id": 39,
+        "temperatureunit": 0.05,
+        "temperature": 7.8,
+        "humidityunit": 0.3,
+        "humidity": 30,
+        "img": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/snowybeach-header.jpg"
+    },
+    {
+        "name": "Stony Shore",
+        "id": 40,
+        "temperatureunit": 0.2,
+        "temperature": 9.8,
+        "humidityunit": 0.3,
+        "humidity": 30,
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/minecraft/e/e3/Beach_-_Stony_Shore_V2.png?width=1280"
+    },
+    {
+        "name": "Windswept Forest",
+        "id": 21,
+        "temperatureunit": 0.2,
+        "temperature": 9.8,
+        "humidityunit": 0.3,
+        "humidity": 30,
+        "img": "https://i.redd.it/2s6i8vqxo2s71.png"
+    },
+    {
+        "name": "Windswept Gravelly Hills",
+        "id": 20,
+        "temperatureunit": 0.2,
+        "temperature": 9.8,
+        "humidityunit": 0.3,
+        "humidity": 30,
+        "img": "https://staticg.sportskeeda.com/editor/2022/07/ecc48-16574219187836-1920.jpg"
+    },
+    {
+        "name": "Windswept Hills",
+        "id": 19,
+        "temperatureunit": 0.2,
+        "temperature": 9.8,
+        "humidityunit": 0.3,
+        "humidity": 30,
+        "img": "https://staticg.sportskeeda.com/editor/2021/12/d2a67-16390800715219-1920.jpg"
+    },
+    {
+        "name": "Stony Peaks",
+        "id": 35,
+        "temperatureunit": 1,
+        "temperature": 23.5,
+        "humidityunit": 0.3,
+        "humidity": 30,
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/minecraft/5/58/Peaks_-_Stony_Peaks_V2.png"
+    },
+    {
+        "name": "Snowy Taiga",
+        "id": 16,
+        "temperatureunit": -0.5,
+        "temperature": 0.3,
+        "humidityunit": 0.4,
+        "humidity": 40,
+        "img": "hhttps://preview.redd.it/snowy-old-growth-taigas-v0-40swn7jfe6y91.png?width=1920&format=png&auto=webp&s=4e8f15bf38eee632a4723f3177ea2cc543c4bff0"
+    },
+    {
+        "name": "Beach",
+        "id": 38,
+        "temperatureunit": 0.8,
+        "temperature": 18,
+        "humidityunit": 0.4,
+        "humidity": 40,
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/minecraft/2/21/Beach.png"
+    },
+    {
+        "name": "Deep Dark",
+        "id": 53,
+        "temperatureunit": 0.8,
+        "temperature": 18,
+        "humidityunit": 0.4,
+        "humidity": 40,
+        "img": "https://staticg.sportskeeda.com/editor/2022/05/7404c-16538050507160-1920.jpg"
+    },
+    {
+        "name": "Dripstone Caves",
+        "id": 51,
+        "temperatureunit": 0.8,
+        "temperature": 18,
+        "humidityunit": 0.4,
+        "humidity": 40,
+        "img": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2020/10/minecraft-dripstone-caves.jpg"
+    },
+    {
+        "name": "Plains",
+        "id": 1,
+        "temperatureunit": 0.8,
+        "temperature": 18,
+        "humidityunit": 0.4,
+        "humidity": 40,
+        "img": "https://i.imgur.com/7MqmGQg.jpg?1"
+    },
+    {
+        "name": "Sunflower Plains",
+        "id": 2,
+        "temperatureunit": 0.8,
+        "temperature": 18,
+        "humidityunit": 0.4,
+        "humidity": 40,
+        "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/ce/Sunflower_Plains.png/revision/latest/scale-to-width-down/1000?cb=20230112141838"
+    },
+    {
+        "name": "Frozen Ocean",
+        "id": 48,
+        "temperatureunit": 0,
+        "temperature": 7.1,
+        "humidityunit": 0.5,
+        "humidity": 50,
+        "img": "https://i.redd.it/ozyn4zdoc9q21.png"
+    },
+    {
+        "name": "Frozen River",
+        "id": 37,
+        "temperatureunit": 0,
+        "temperature": 7.1,
+        "humidityunit": 0.5,
+        "humidity": 50,
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/minecraft/2/2d/River_-_Frozen_River.png?width=1280"
+    },
+    {
+        "name": "Ice Spikes",
+        "id": 4,
+        "temperatureunit": 0,
+        "temperature": 7.1,
+        "humidityunit": 0.5,
+        "humidity": 50,
+        "img": "https://i.redd.it/f8mso1fufgxz.png"
+    },
+    {
+        "name": "Snowy Plains",
+        "id": 3,
+        "temperatureunit": 0,
+        "temperature": 7.1,
+        "humidityunit": 0.5,
+        "humidity": 50,
+        "img": "https://blog.shockbyte.com/content/images/2022/12/Minecraft-Winter-Seed.png"
+    },
+    {
+        "name": "Cold Ocean",
+        "id": 46,
+        "temperatureunit": 0.5,
+        "temperature": 7.8,
+        "humidityunit": 0.5,
+        "humidity": 50,
+        "img": "https://staticg.sportskeeda.com/editor/2021/11/591ad-16374029275036.png"
+    },
+    {
+        "name": "Deep Cold Ocean",
+        "id": 47,
+        "temperatureunit": 0.5,
+        "temperature": 13.9,
+        "humidityunit": 0.5,
+        "humidity": 50,
+        "img": "https://staticg.sportskeeda.com/editor/2022/09/dc937-16642931412379.png"
+    },
+    {
+        "name": "Deep Frozen Ocean",
+        "id": 49,
+        "temperatureunit": 0.5,
+        "temperature": 13.9,
+        "humidityunit": 0.5,
+        "humidity": 50,
+        "img": "https://staticg.sportskeeda.com/editor/2022/05/2e830-16517056433344-1920.jpg"
+    },
+    {
+        "name": "Deep Lukewarm Ocean",
+        "id": 43,
+        "temperatureunit": 0.5,
+        "temperature": 13.9,
+        "humidityunit": 0.5,
+        "humidity": 50,
+        "img": "https://staticg.sportskeeda.com/editor/2022/09/d41ee-16639425988069.png"
+    },
+    {
+        "name": "Deep Ocean",
+        "id": 45,
+        "temperatureunit": 0.5,
+        "temperature": 13.9,
+        "humidityunit": 0.5,
+        "humidity": 50,
+        "img": "https://i.imgur.com/MwlAYdk.png"
+    },
+    {
+        "name": "End Barrens",
+        "id": 63,
+        "temperatureunit": 0.5,
+        "temperature": 13.9,
+        "humidityunit": 0.5,
+        "humidity": 50,
+        "img": "https://staticg.sportskeeda.com/editor/2022/07/a9381-16574229588169-1920.jpg"
+    },
+    {
+        "name": "End Highlands",
+        "id": 60,
+        "temperatureunit": 0.5,
+        "temperature": 13.9,
+        "humidityunit": 0.5,
+        "humidity": 50,
+        "img": "https://i.redd.it/u1oya2mkod951.png"
+    },
+    {
+        "name": "End Midlands",
+        "id": 61,
+        "temperatureunit": 0.5,
+        "temperature": 13.9,
+        "humidityunit": 0.5,
+        "humidity": 50,
+        "img": "https://staticg.sportskeeda.com/editor/2021/11/eae96-16358725730459-1920.jpg?w=700"
+    },
+    {
+        "name": "Lukewarm Ocean",
+        "id": 42,
+        "temperatureunit": 0.5,
+        "temperature": 13.9,
+        "humidityunit": 0.5,
+        "humidity": 50,
+        "img": "https://cdn-raw.modrinth.com/data/wL0X4qCW/images/38fcc76addb0559edc67389e8756da32b833ddb7.png"
+    },
+    {
+        "name": "Lush Caves",
+        "id": 52,
+        "temperatureunit": 0.5,
+        "temperature": 13.9,
+        "humidityunit": 0.5,
+        "humidity": 50,
+        "img": "https://cdn.mos.cms.futurecdn.net/LHk2S4ccdKv3qNPb6EtLtn.jpg"
+    },
+    {
+        "name": "Ocean",
+        "id": 44,
+        "temperatureunit": 0.5,
+        "temperature": 13.9,
+        "humidityunit": 0.5,
+        "humidity": 50,
+        "img": "https://tagn.files.wordpress.com/2018/07/113coralindaylight.png"
+    },
+    {
+        "name": "River",
+        "id": 36,
+        "temperatureunit": 0.5,
+        "temperature": 13.9,
+        "humidityunit": 0.5,
+        "humidity": 50,
+        "img": "https://i.redd.it/f1ze77o394c51.jpg"
+    },
+    {
+        "name": "Small End Islands",
+        "id": 62,
+        "temperatureunit": 0.5,
+        "temperature": 13.9,
+        "humidityunit": 0.5,
+        "humidity": 50,
+        "img": "https://pbs.twimg.com/media/E71wDfwWQAEaSZ9.jpg:large"
+    },
+    {
+        "name": "The End",
+        "id": 59,
+        "temperatureunit": 0.5,
+        "temperature": 13.9,
+        "humidityunit": 0.5,
+        "humidity": 50,
+        "img": "https://staticg.sportskeeda.com/editor/2022/08/fc033-16615240285410-1920.jpg"
+    },
+    {
+        "name": "The Void",
+        "id": 0,
+        "temperatureunit": 0.5,
+        "temperature": 13.9,
+        "humidityunit": 0.5,
+        "humidity": 50,
+        "img": "https://staticg.sportskeeda.com/editor/2021/11/b2c66-16367379323697-1920.jpg"
+    },
+    {
+        "name": "Warm Ocean",
+        "id": 41,
+        "temperatureunit": 0.5,
+        "temperature": 13.9,
+        "humidityunit": 0.5,
+        "humidity": 50,
+        "img": "https://staticg.sportskeeda.com/editor/2021/11/f6dda-16374041307835-1920.jpg"
+    },
+    {
+        "name": "Birch Forest",
+        "id": 10,
+        "temperatureunit": 0.6,
+        "temperature": 9.8,
+        "humidityunit": 0.6,
+        "humidity": 60,
+        "img": "https://i.ibb.co/tBCqc67/2022-08-17-22-17-15.png"
+    },
+    {
+        "name": "Old Growth Birch Forest",
+        "id": 12,
+        "temperatureunit": 0.6,
+        "temperature": 9.8,
+        "humidityunit": 0.6,
+        "humidity": 60,
+        "img": "https://staticg.sportskeeda.com/editor/2022/05/2f908-16514748619729-1920.jpg"
+    },
+    {
+        "name": "Grove",
+        "id": 31,
+        "temperatureunit": -0.2,
+        "temperature": 3.7,
+        "humidityunit": 0.8,
+        "humidity": 80,
+        "img": "https://staticg.sportskeeda.com/editor/2021/12/09531-16384252318166.png"
+    },
+    {
+        "name": "Old Growth Spruce Taiga",
+        "id": 14,
+        "temperatureunit": 0.25,
+        "temperature": 6.1,
+        "humidityunit": 0.8,
+        "humidity": 80,
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/minecraft/0/01/Taiga_-_Old_Growth_Taiga.png?width=1280"
+    },
+    {
+        "name": "Taiga",
+        "id": 15,
+        "temperatureunit": 0.25,
+        "temperature": 6.1,
+        "humidityunit": 0.8,
+        "humidity": 80,
+        "img": "https://minecrafthelp.zendesk.com/hc/article_attachments/4404133044493"
+    },
+    {
+        "name": "Old Growth Pine Taiga",
+        "id": 13,
+        "temperatureunit": 0.3,
+        "temperature": 7.1,
+        "humidityunit": 0.8,
+        "humidity": 80,
+        "img": "https://staticg.sportskeeda.com/editor/2022/07/4f925-16569009628153-1920.jpg"
+    },
+    {
+        "name": "Cherry Grove",
+        "id": 30,
+        "temperatureunit": 0.5,
+        "temperature": 7.8,
+        "humidityunit": 0.8,
+        "humidity": 80,
+        "img": "https://pbs.twimg.com/media/FpNOG6hWcAAG7Mu.jpg:large"
+    },
+    {
+        "name": "Meadow",
+        "id": 29,
+        "temperatureunit": 0.5,
+        "temperature": 13.9,
+        "humidityunit": 0.8,
+        "humidity": 80,
+        "img": "https://staticg.sportskeeda.com/editor/2021/12/99ed2-16385997961818.png"
+    },
+    {
+        "name": "Dark Forest",
+        "id": 11,
+        "temperatureunit": 0.7,
+        "temperature": 16.6,
+        "humidityunit": 0.8,
+        "humidity": 80,
+        "img": "https://media.minecraftforum.net/attachments/98/277/635636928363929812.png"
+    },
+    {
+        "name": "Flower Forest",
+        "id": 9,
+        "temperatureunit": 0.7,
+        "temperature": 16.6,
+        "humidityunit": 0.8,
+        "humidity": 80,
+        "img": "https://assets.badlion.net/blog/1-20/find-flowers-minecraft/flower-forest.webp"
+    },
+    {
+        "name": "Forest",
+        "id": 8,
+        "temperatureunit": 0.7,
+        "temperature": 16.6,
+        "humidityunit": 0.8,
+        "humidity": 80,
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/minecraft/6/6b/Forest_V2.png?width=1280"
+    },
+    {
+        "name": "Sparse Jungle",
+        "id": 24,
+        "temperatureunit": 0.95,
+        "temperature": 34.4,
+        "humidityunit": 0.8,
+        "humidity": 80,
+        "img": "https://cdn-raw.modrinth.com/data/zeOEr6La/images/617ebfff9e302e06bc372d1561761f62998f7ca6.png"
+    },
+    {
+        "name": "Frozen Peaks",
+        "id": 33,
+        "temperatureunit": -0.7,
+        "temperature": 0.3,
+        "humidityunit": 0.9,
+        "humidity": 90,
+        "img": "https://images.ctfassets.net/8y6ykjruobr4/3GdIjt8yEhxFAo6Ke6eNTM/183bc695da903c6ce2f26f5ea7720450/1-18-frozen-peaks.jpg"
+    },
+    {
+        "name": "Jagged Peaks",
+        "id": 34,
+        "temperatureunit": -0.7,
+        "temperature": 0.3,
+        "humidityunit": 0.9,
+        "humidity": 90,
+        "img": "https://i.redd.it/l5y2c62bri881.png"
+    },
+    {
+        "name": "Snowy Slopes",
+        "id": 32,
+        "temperatureunit": -0.3,
+        "temperature": 6.6,
+        "humidityunit": 0.9,
+        "humidity": 90,
+        "img": "https://staticg.sportskeeda.com/editor/2021/12/dd17e-16383656954590-1920.jpg"
+    },
+    {
+        "name": "Mangrove Swamp",
+        "id": 7,
+        "temperatureunit": 0.8,
+        "temperature": 18,
+        "humidityunit": 0.9,
+        "humidity": 90,
+        "img": "https://feedback.minecraft.net/hc/article_attachments/5343190699661/beta19_1_16x9.jpg"
+    },
+    {
+        "name": "Swamp",
+        "id": 6,
+        "temperatureunit": 0.8,
+        "temperature": 18,
+        "humidityunit": 0.9,
+        "humidity": 90,
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/minecraft/7/7c/Swamp_-_Mangroves.png?width=1280"
+    },
+    {
+        "name": "Bamboo Jungle",
+        "id": 25,
+        "temperatureunit": 0.95,
+        "temperature": 23.9,
+        "humidityunit": 0.9,
+        "humidity": 90,
+        "img": "https://staticg.sportskeeda.com/editor/2021/11/998b2-16370596479792-1920.jpg"
+    },
+    {
+        "name": "Jungle",
+        "id": 23,
+        "temperatureunit": 0.95,
+        "temperature": 34.4,
+        "humidityunit": 0.9,
+        "humidity": 90,
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/minecraft/a/ae/Jungle.png"
+    },
+    {
+        "name": "Mushroom Fields",
+        "id": 50,
+        "temperatureunit": 0.9,
+        "temperature": 19.4,
+        "humidityunit": 1,
+        "humidity": 100,
+        "img": "https://staticg.sportskeeda.com/editor/2022/11/8b310-16693857797203-1920.jpg"
+    }
+]
